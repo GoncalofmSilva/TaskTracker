@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Banana",
+    "description": "Comprar",
+    "state": "Done"
+  },
+  {
+    "id": 2,
+    "title": "Pera",
+    "description": "Comprar",
+    "state": "In Progress"
+  },
+  {
+    "id": 3,
+    "title": "Bolachas",
+    "description": "Comprar bolachas de Agua e Sal",
+    "state": "To Do"
+  }
+]
