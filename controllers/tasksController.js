@@ -5,7 +5,7 @@ import {
   createTask,
   updatedTask,
   deleteTask,
-} from "../models/taskModels.js";
+} from "../models/tasksModel.js";
 
 // Create a new task
 export const addTask = async (req, res) => {
